@@ -11,10 +11,6 @@ An intelligent data analytics platform that converts natural language questions 
 - **Real-time Results**: Instant query execution with formatted results
 - **CSV Data Import**: Automatically convert CSV files to queryable database
 
-## Demo
-
-![AI Data Query Agent Interface](https://via.placeholder.com/800x400/4f46e5/ffffff?text=AI+Data+Query+Agent)
-
 ## Quick Start
 
 ### Prerequisites
