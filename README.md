@@ -15,7 +15,7 @@ An intelligent data analytics platform that converts natural language questions 
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - Google Gemini API key (optional: Ollama for local LLM)
 
 ### Installation
